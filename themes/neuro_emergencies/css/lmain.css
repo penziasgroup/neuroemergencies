@@ -1,0 +1,14 @@
+/*
+Custom CSS styles that override base theme go here.
+*/
+
+.front .views-field-field-hero-image,
+.page-accreditation .views-field-field-hero-image {
+  width:100%;
+  float:none;
+}
+
+.front .hero-copy,
+.page-accreditation .hero-copy {
+  display:none;
+}
