@@ -1,6 +1,11 @@
 /*
 Custom CSS styles that override base theme go here.
 */
+.header-block p.course-slogan {
+  font-size: 21px;
+  line-height: 23px;
+  font-weight:normal;
+}
 
 .header-block .course-venue-date {
   font-size:22px;
@@ -15,5 +20,15 @@ Custom CSS styles that override base theme go here.
 .front .hero-copy,
 .page-accreditation .hero-copy {
   display:none;
+}
+
+.collapse-me,
+.close-me {
+  display:none;
+}
+
+.collapse-me-control {
+  color:#0000FF;
+  cursor:pointer;
 }
 

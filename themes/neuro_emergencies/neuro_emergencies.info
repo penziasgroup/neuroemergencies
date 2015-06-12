@@ -13,6 +13,7 @@
 
   ; See each stylesheet for extensive documentation and help.
   stylesheets[screen][] = css/main.css
+  scripts[]=scripts/neuro.scripts.js
 
 ;----------// Regions
 
